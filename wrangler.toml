@@ -1,0 +1,8 @@
+name = "divine-bread-4fa0"
+main = "worker.js"
+[unsafe.metadata.observability]
+enabled = true
+
+kv_namespaces = [
+  { binding = "jimmy", id = "598bf654eaeb4c8db392db36db469e20" }
+]
